@@ -1,7 +1,7 @@
 {
-  "name": "prompt_project",
+  "name": "vue_project",
   "version": "1.0.0",
-  "description": "更新信息提示管理系统",
+  "description": "backups vue-cli-eslint",
   "author": "ztrain",
   "private": true,
   "scripts": {

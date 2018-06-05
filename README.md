@@ -1,6 +1,6 @@
-# prompt_project
+# vue_project
 
-> 更新信息提示管理系统
+> vue-cli-eslint
 
 ## Build Setup
 
@@ -10,6 +10,8 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+config -> host: '0.0.0.0', // can be overwritten by process.env.HOST
+change ip or localhost
 
 # build for production with minification
 npm run build
